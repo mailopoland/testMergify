@@ -1,5 +1,5 @@
 # testMergify
-a
+ab
 first change
 
 second change
