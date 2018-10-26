@@ -1,4 +1,4 @@
-# testMergify
+a# testMergify
 first change
 second change
 first change
