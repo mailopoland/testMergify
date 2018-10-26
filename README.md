@@ -1,5 +1,5 @@
 # testMergify
-
+a
 first change
 
 second change
